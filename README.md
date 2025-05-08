@@ -4,7 +4,7 @@
 
 As shown in Figure 1, I plan to create a Tetris-like interactive game using a grid-based sand simulation that allows colored sand particles to fall and pile up naturally, maintaining mass and avoiding particle loss. This approach is complex but produces stable and realistic physical and visual effects.
 
-![Figure 1: Sand Mesh Simulation - Particles fall and pile up in a mesh](http://127.0.0.1:5500/%20readmeImages/1.jpg)
+![Figure 1: Sand Mesh Simulation - Particles fall and pile up in a mesh](/Users/peizi.luo/Desktop/未命名/pluo0398_9103_tut3/ readmeImages/1.jpg)
 
 As shown in Figures 2 and 3, I will extend it so that sand grains of different colors fall freely and disappear automatically when matched—similar to Tetris, but with irregular particles instead of squares—thus enhancing interactivity and fun.
 
